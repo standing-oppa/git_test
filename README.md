@@ -1,1 +1,1 @@
-This is Chris' first projet!
+This is Chris' first project!
